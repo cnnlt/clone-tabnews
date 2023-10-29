@@ -1,8 +1,5 @@
 function Home() {
-    return <h1>O capitalismo falhou, falha e falhará em cada uma das sociedades
-        onde ele colocar os seus tentáculos que se baseiam na expropriação e
-        na exploração do homem pelo homem, é isso que combatemos! -Carvalho, João</h1>
-        
+    return <h1>Tem hora que dá medo, mas tem medo que é da hora! Love you cenoura! </h1>
 }
 
 export default Home;
